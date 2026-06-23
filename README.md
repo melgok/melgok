@@ -4,15 +4,11 @@
 Systemvetare • Webbutveckling • Verksamhetsanalys
 </p>
 
----
-
-## Om mig
+Om mig
 
 Systemvetare med fokus på digitalisering, verksamhetsutveckling och AI.  
 
----
-
-## Kompetenser
+Kompetenser
 
 **Webbutveckling**  
 ASP.NET MVC • React • HTML • CSS  
@@ -31,8 +27,6 @@ Excel • Minitab • Generativ AI
 
 **Verktyg**  
 Figma • Canva • Microsoft 365  
-
----
 
 ## Kontakt
 
