@@ -4,11 +4,7 @@
 Systemvetare • Webbutveckling • Verksamhetsanalys
 </p>
 
-Om mig
-
 Systemvetare med fokus på digitalisering, verksamhetsutveckling och AI.  
-
-Kompetenser
 
 **Webbutveckling**  
 ASP.NET MVC • React • HTML • CSS  
@@ -28,6 +24,6 @@ Excel • Minitab • Generativ AI
 **Verktyg**  
 Figma • Canva • Microsoft 365  
 
-## Kontakt
+**Kontakt**
 
 [LinkedIn](www.linkedin.com/in/melissa-gök-555973337) • [Email](mailto:melissagok9@gmail.com)
