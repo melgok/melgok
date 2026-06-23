@@ -26,4 +26,4 @@ Figma • Canva • Microsoft 365
 
 **Kontakt**
 
-[LinkedIn](www.linkedin.com/in/melissa-gök-555973337) • [Email](mailto:melissagok9@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/melissa-gök-555973337) • [Email](mailto:melissagok9@gmail.com)
