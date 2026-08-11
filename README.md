@@ -7,7 +7,7 @@ Systemvetare • Webbutveckling • Verksamhetsanalys
 Systemvetare med fokus på digitalisering, verksamhetsutveckling och AI.  
 
 **Webbutveckling**  
-ASP.NET MVC • React • HTML • CSS  
+ASP.NET Core • React • HTML • CSS  
 
 **Programmering**  
 C# • JavaScript • Java  
@@ -16,13 +16,10 @@ C# • JavaScript • Java
 SQL • Entity Framework • Databasdesign  
 
 **Analys & metod**  
-Agil • Kravanalys • Verksamhetsmodellering • Lean • Six Sigma  
-
-**Data & AI**  
-Excel • Minitab • Generativ AI  
+Agil • Kravanalys • Verksamhetsmodellering 
 
 **Verktyg**  
-Figma • Canva • Microsoft 365  
+Visual studio • Figma • Canva • Microsoft 365 • Microsoft Azure • Minitab 
 
 **Kontakt**
 
